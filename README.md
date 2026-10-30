@@ -4,8 +4,7 @@ C# WinForms로 만든 **ROBOTIS Dynamixel 모터 제어 및 실시간 모니터�
 SDK 없이 **Dynamixel Protocol 2.0 패킷을 직접 구성**하여 시리얼 통신으로 모터를 제어하고,
 현재 위치를 실시간 그래프로 표시하며 SQLite DB에 로그를 저장합니다.
 
-<!-- 스크린샷: docs/screenshot.png 를 추가한 뒤 아래 주석을 해제하세요 -->
-<!-- ![screenshot](docs/screenshot.png) -->
+![screenshot](docs/screenshot.png)
 
 ## 주요 기능
 
